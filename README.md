@@ -1,0 +1,2 @@
+# qresearch
+quantitative stuff
