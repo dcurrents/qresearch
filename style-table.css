@@ -1,6 +1,7 @@
 body {
     margin: 0;
-    font-family: Serif;
+    font-family: Georgia, Times New Roman, Sans, Serif;
+	font-size:medium;
 }
 table.dataframe {
     border-collapse: collapse;
